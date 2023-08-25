@@ -4,19 +4,10 @@
 <a href="https://zupimages.net/viewer.php?id=23/34/tuoi.jpeg"><img src="https://zupimages.net/up/23/34/tuoi.jpeg" alt="" /></a>
 
 ###### "Me, in one sentence"
-> ---
->Birthday: 10/07/1998
-> 
->
->Favorite colors:  Green
-> 
->Favorite food: Chicken
->
->Pineapple on pizza:
-> <ul><li>[ ] Yes</li></ul>
-> <ul><li>[x] No </li></ul>
->
-> ---
+| Birthday: | 10/07/1998 |
+| Favorite colors: | Green |
+| Favorite food: | Chicken |
+| Pineapple on pizza: | <ul><li>[ ] Yes</li></ul><ul><li>[x] No </li></ul> |
 
 ### Hobbies:
 > Automobiles :
@@ -39,6 +30,7 @@ When I was a teenager, I used to play video games too much and that complicated 
 ###### TL;DR
 *Don't play with parents, they're stronger than us!*
 
-<button name="button" onclick="https://github.com/Taweria/markdown-challenge">Previous</button> | MATHIAS |
-<button name="button" onclick="https://github.com/lbeauloi/markdown-challenge">Next</button>
+<a href="https://github.com/Taweria/markdown-challenge">Previous</a> 
+| BARBIER |
+<a href="https://github.com/lbeauloi/markdown-challenge">Next</a>
 
