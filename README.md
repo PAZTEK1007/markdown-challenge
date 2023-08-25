@@ -4,24 +4,23 @@
 <a href="https://zupimages.net/viewer.php?id=23/34/tuoi.jpeg"><img src="https://zupimages.net/up/23/34/tuoi.jpeg" alt="" /></a>
 
 ###### "Me, in one sentence"
-
-    |:-------------------------|:--------------------------------------------------|
-    |   Birthday               |10/07/1998                                         |
-    |   Favorite colors        |Green                                              |
-    |   Favorite food          |Chicken                                            |
-    |   Pineapple on pizza     |<ul><li>[ ] Yes</li></ul><ul><li>[x] No </li></ul> |
+|:-------------------------|:--------------------------------------------------|
+|   Birthday               |10/07/1998                                         |
+|   Favorite colors        |Green                                              |
+|   Favorite food          |Chicken                                            |
+|   Pineapple on pizza     |<ul><li>[ ] Yes</li></ul><ul><li>[x] No </li></ul> |
 
 ### Hobbies:
 > Automobiles :
 >> - Japanese's car in particular
->> - Automobile's Mechanics  add 
+>> - Automobile's Mechanics 
 >
 > Vidéo Games : 
 >> - I like playing to :
 >>> - Survival Games 
 >>> - Sandbox Games
 >>> - FPS Games
->git p
+>
 > ---
 ### You can always count on me when...
 To help and encourage the team!
