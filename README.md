@@ -5,11 +5,11 @@
 
 ###### "Me, in one sentence"
 
-|:----------------------|:--------------------------------------------------|
-|Birthday               |10/07/1998                                         |
-|Favorite colors        |Green                                              |
-|Favorite food          |Chicken                                            |
-|Pineapple on pizza     |<ul><li>[ ] Yes</li></ul><ul><li>[x] No </li></ul> |
+    |:-------------------------|:--------------------------------------------------|
+    |   Birthday               |10/07/1998                                         |
+    |   Favorite colors        |Green                                              |
+    |   Favorite food          |Chicken                                            |
+    |   Pineapple on pizza     |<ul><li>[ ] Yes</li></ul><ul><li>[x] No </li></ul> |
 
 ### Hobbies:
 > Automobiles :
