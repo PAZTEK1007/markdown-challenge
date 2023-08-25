@@ -16,7 +16,7 @@
 >> - Japanese's car in particular
 >> - Automobile's Mechanics 
 >
-> Vidéo Games : 
+> Video Games : 
 >> - I like playing to :
 >>> - Survival Games 
 >>> - Sandbox Games
@@ -33,6 +33,6 @@ When I was a teenager, I used to play video games too much and that complicated 
 *Don't play with parents, they're stronger than us!*
 
 <a href="https://github.com/Taweria/markdown-challenge">Previous</a> 
-| BARBIER |
+| Barbier Mathias |
 <a href="https://github.com/lbeauloi/markdown-challenge">Next</a>
 
