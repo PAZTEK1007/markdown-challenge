@@ -4,7 +4,7 @@
 <a href="https://zupimages.net/viewer.php?id=23/34/tuoi.jpeg"><img src="https://zupimages.net/up/23/34/tuoi.jpeg" alt="" /></a>
 
 ###### "Me, in one sentence"
-
+| :------------------ | :------------------------------------------------: |
 | Birthday:           | 10/07/1998                                         |
 | Favorite colors:    | Green                                              |
 | Favorite food:      | Chicken                                            |
